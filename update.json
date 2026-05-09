@@ -1,9 +1,8 @@
 {
-  "versionCode": 100,
-  "versionName": "1.2.0",
   "isMaintenance": false,
-  "updateDescription": "يرجى تحميل النسخة الجديدة للاستمرار في استخدام التطبيق.",
-  "downloadUrl": "https://example.com/app.apk",
-  "telegramUrl": "https://t.me/YourChannel"
+  "versionCode": 1,
+  "versionName": "1.0",
+  "updateDescription": "...",
+  "downloadUrl": "...",
+  "telegramUrl": "..."
 }
-
