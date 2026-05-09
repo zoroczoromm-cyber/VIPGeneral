@@ -1,6 +1,6 @@
 {
-  "isMaintenance": false,
-  "versionCode": 3,
+  "isMaintenance": true,
+  "versionCode": 99,
   "versionName": "1.0",
   "updateDescription": "...",
   "downloadUrl": "...",
