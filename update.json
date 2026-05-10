@@ -1,8 +1,5 @@
 {
-  "isMaintenance": false,
-  "versionCode": 99,
-  "versionName": "1.0",
-  "updateDescription": "...",
-  "downloadUrl": "...",
-  "telegramUrl": "..."
+  "show": true,
+  "title": "تحذير مهم",
+  "message": "البولت تراك غير امن"
 }
