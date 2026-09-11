@@ -1,9 +1,10 @@
 {
   "show": true,
-  "title": "تحذير مهم",
-  "message": "البولت تراك غير امن",
+  "title": "تحديث مهم",
+  "message": "تم تحديث 
+  تمت اضافه مميزات نسخه تحديث 4.6.0",
   "version": "4.6",
-  "update_url": "https://YOUR-DIRECT-APK-LINK/app-release.apk",
-  "telegram_url": "https://t.me/YOUR_CHANNEL",
+  "update_url": "https://github.com/zoroczoromm-cyber/VIPGeneral/raw/refs/heads/main/BONR_4.5.0.apk",
+  "telegram_url": "https://t.me/BONR_3",
   "force_update": true
 }
