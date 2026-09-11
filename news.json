@@ -1,0 +1,9 @@
+{
+  "show": true,
+  "title": "تحذير مهم",
+  "message": "البولت تراك غير امن",
+  "version": "4.6",
+  "update_url": "https://YOUR-DIRECT-APK-LINK/app-release.apk",
+  "telegram_url": "https://t.me/YOUR_CHANNEL",
+  "force_update": true
+}
